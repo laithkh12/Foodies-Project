@@ -58,6 +58,3 @@ Don't forget to give the project a star! Thanks again!
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-Your Name - email@example.com  
-Project Link: [https://github.com/yourusername/32-s3-file-storage](https://github.com/yourusername/32-s3-file-storage)
