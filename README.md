@@ -1,5 +1,5 @@
 
-# 32-S3-File-Storage Project
+# Foodies
 
 ## Description
 This project is a Next.js application that integrates server-side and client-side functionalities with a focus on managing meal-related data. It includes a dynamic web interface and a backend using an SQLite database for data persistence.
