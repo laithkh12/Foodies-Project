@@ -41,10 +41,6 @@ Once the project is set up, navigate to `http://localhost:3000` to view and inte
 ## Adding Images
 To make the README more engaging, include images like screenshots or diagrams. Here’s how to add images:
 - Store your images in the `images` folder within your repository.
-- Use Markdown to embed images:
-  \`\`\`markdown
-  ![Project Layout](images/layout.png "Project Layout Example")
-  \`\`\`
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
